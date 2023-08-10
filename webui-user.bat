@@ -3,6 +3,6 @@
 set PYTHON=
 set GIT=
 set VENV_DIR=
-set COMMANDLINE_ARGS=--reinstall-xformers --xformers
+set COMMANDLINE_ARGS=
 
 call webui.bat
